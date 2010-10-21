@@ -1,0 +1,1 @@
+#Como vou colocar equacoes como input?
