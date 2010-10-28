@@ -1,0 +1,4 @@
+# vim startup script
+export QA_ROOT=$(pwd)
+ctags -Rf tags.ruby .
+gvim run/runtime_config.rb -c "tabnew +NERDTree"
